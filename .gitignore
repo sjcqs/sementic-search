@@ -1,1 +1,3 @@
-health
+volumes/
+.milvus/
+.envrc
